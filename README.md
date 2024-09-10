@@ -1,2 +1,16 @@
-# flutter-login-page
-This Flutter project implements a user-friendly and responsive login page suitable for both mobile and web applications. The interface features two primary input fields: one for the username or email and another for the password, ensuring a straightforward login experience. 
+# login_ui_page
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
